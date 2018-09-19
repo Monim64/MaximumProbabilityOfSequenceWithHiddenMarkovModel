@@ -49,7 +49,6 @@ def main():
 
     # Input Value of Hidden Transition Probability
     print("Enter the values of Hidden Transition Probability")
-    print("\n\n" + str(len(input_initial_sequence)))
     for i in range(len(input_initial_condition)):
         for j in range(len(input_initial_sequence)):
             print(input_initial_condition[i] + "->" + input_initial_sequence[j])
