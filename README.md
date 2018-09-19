@@ -2,9 +2,9 @@
 This project is created on purpose of learnig Machine Learning algorithm named Hidden Markov Model. User can get maximum probability of their given sequence.
 
 # Sample Input
-Enter the number of Hidden Sequence: 2
-Enter the name of 2 Hidden sequences
-Rainy
+Enter the number of Hidden Sequence: 2\n
+Enter the name of 2 Hidden sequences\n
+Rainy\n
 Sunny
 
 Enter the number of Observe Sequence: 3
