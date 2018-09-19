@@ -3,24 +3,15 @@ This project is created on purpose of learnig Machine Learning algorithm named H
 
 # Sample Input
 Enter the number of Hidden Sequence: 2
-
 Enter the name of 2 Hidden sequences
-
 Rainy
-
 Sunny
 
-
 Enter the number of Observe Sequence: 3
-
 Enter the name of 3 Observe sequences
-
 Class
-
 Play
-
 Sleep
-
 
 Enter the values of Start Probability: 
 
